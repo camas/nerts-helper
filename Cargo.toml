@@ -1,0 +1,2 @@
+[workspace]
+members = ["nerts-bot", "nerts-helper"]
